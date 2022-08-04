@@ -3,7 +3,7 @@
 ## Background
 
 <p align="center">
-<img src="./attack.png" width="458" height="190" alt="General idea of the CycleGAN" />
+<img src="./Cycle GAN concept.png" width="458" height="190" alt="General idea of the CycleGAN" />
 </p>
 
 CycleGAN is a very popular GAN architecture primarily
