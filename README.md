@@ -23,7 +23,7 @@ of python code by utilizing PyTorch framework.
 
 ### Jupyter Notebook
 To implement Cycle GAN on a Colposcopy dataset, please refer
-to [this jupyter notebook](./scaleatt/video_scale_attack.ipynb).
+to [this jupyter notebook](./Colposcopy_Cycle_GAN.ipynb).
 
 ## Dataset
 You can collect the dataset from the following website:
