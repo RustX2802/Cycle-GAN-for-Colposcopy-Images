@@ -28,3 +28,39 @@ to [this jupyter notebook](./scaleatt/video_scale_attack.ipynb).
 ## Dataset
 You can collect the dataset from the following website:
 https://screening.iarc.fr/atlascolpo.php
+
+# Columns in info.csv
+
+*Note: some values can be null*
+
+**Image_name**  : {patient_id}_{photo#}
+
+> There can be multiple photos for a patient `ex) 125_1, 125_2, 125_3`
+
+**Age** :
+
+**HPV status** :
+
+- `1` : Positive 
+- `0` : Negative
+
+**TZ_Type :**  Transformation_zone
+
+- `1` : type 1
+- `2` : type 2
+- `3` : type 3
+
+**Solution** :
+
+- `saline` : *normal saline*
+- `saline green` : *normal saline with green filter*
+- `acetic` : *acetic acid*
+- `acetic green` : *acetic acid with green filter*
+- `iodine` : *Lugol’s iodine*
+- etc..
+
+**label** : Perform the biopsy if the label is not 0 
+
+- `0` : normal 
+- `1` : LSIL 
+- `2` : HSIL
