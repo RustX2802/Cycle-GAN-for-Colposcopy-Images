@@ -1,0 +1,714 @@
+image_name,Age,HPV status,TZ_Type,Solution,label
+186_4,44,0.0,1.0,iodine,0
+147_1,38,1.0,3.0,saline,2
+3_1,37,0.0,1.0,acetic,0
+71_1,30,0.0,1.0,saline,0
+83_5,38,0.0,1.0,acetic,0
+65_3,42,0.0,1.0,acetic,0
+124_8,34,1.0,1.0,iodine,2
+97_4,41,0.0,1.0,iodine,1
+138_1,46,1.0,2.0,saline,2
+86_5,37,0.0,1.0,iodine,0
+138_3,46,1.0,2.0,acetic,2
+18_1,40,0.0,2.0,acetic,0
+152_3,45,,3.0,acetic,2
+213_3,35,1.0,2.0,acetic green,2
+124_4,34,1.0,1.0,acetic,2
+103_1,36,0.0,2.0,saline,2
+189_2,43,0.0,3.0,acetic,0
+118_2,32,1.0,1.0,acetic,2
+207_2,55,0.0,3.0,saline green,0
+83_6,38,0.0,1.0,iodine,0
+42_4,28,0.0,1.0,iodine,0
+133_1,46,1.0,2.0,saline,2
+118_4,32,1.0,1.0,iodine,2
+152_1,45,,3.0,saline,2
+132_1,38,1.0,2.0,saline,2
+33_2,56,1.0,2.0,saline green,0
+145_3,60,1.0,3.0,acetic,2
+47_2,34,0.0,1.0,iodine,0
+137_2,47,1.0,2.0,acetic,2
+155_1,50,1.0,,saline,2
+15_2,43,1.0,1.0,acetic green,0
+210_3,40,0.0,1.0,acetic,0
+150_5,52,1.0,3.0,acetic green,2
+112_3,34,1.0,1.0,acetic,2
+155_5,50,1.0,,acetic green,2
+154_1,56,1.0,3.0,speculum examination,2
+10_3,30,0.0,1.0,iodine,0
+58_4,33,0.0,1.0,acetic higher magnification,0
+92_2,37,0.0,1.0,acetic,1
+14_5,31,0.0,1.0,saline green,0
+191_1,44,1.0,3.0,speculum examination,2
+115_2,42,1.0,1.0,acetic,2
+79_3,34,0.0,1.0,acetic,0
+65_1,42,0.0,1.0,speculum examination,0
+123_3,43,1.0,1.0,acetic,2
+127_3,40,1.0,2.0,iodine,2
+117_1,37,1.0,1.0,saline,2
+169_2,52,1.0,3.0,acetic,2
+12_3,31,0.0,1.0,saline,0
+210_2,40,0.0,1.0,saline,0
+190_5,30,1.0,2.0,examination with endocervical speculum,0
+202_2,35,0.0,1.0,saline green,0
+151_8,48,1.0,3.0,iodine,2
+189_3,43,0.0,3.0,acetic,0
+198_3,31,0.0,1.0,acetic,0
+51_1,33,0.0,1.0,saline,0
+85_3,45,0.0,1.0,saline green,0
+75_4,33,0.0,1.0,iodine,1
+168_2,52,1.0,3.0,acetic,2
+214_5,41,1.0,,acetic green,2
+103_2,36,0.0,2.0,saline,2
+188_3,38,0.0,1.0,acetic green,0
+7_3,40,0.0,1.0,saline,0
+142_6,56,1.0,3.0,iodine,2
+13_5,36,0.0,1.0,speculum examination,0
+23_3,40,0.0,1.0,iodine,0
+70_1,34,0.0,1.0,saline,0
+139_3,52,1.0,3.0,acetic,2
+178_3,43,1.0,3.0,acetic green,2
+187_3,36,0.0,1.0,acetic,0
+74_2,40,0.0,1.0,saline green,0
+45_2,35,0.0,1.0,acetic,0
+8_2,38,0.0,1.0,saline green,0
+103_4,36,0.0,2.0,acetic green,2
+195_1,37,0.0,1.0,speculum examination,0
+52_4,34,0.0,1.0,acetic,0
+16_2,40,0.0,1.0,speculum examination,0
+88_1,52,0.0,0.0,saline,0
+45_4,35,0.0,1.0,iodine,0
+10_4,30,0.0,1.0,speculum examination,0
+64_4,42,0.0,1.0,iodine,0
+129_4,50,1.0,2.0,acetic green,2
+167_3,45,1.0,3.0,acetic,2
+96_3,35,0.0,1.0,acetic green,1
+83_2,38,0.0,1.0,saline,0
+186_3,44,0.0,1.0,acetic,0
+19_4,42,0.0,1.0,acetic,0
+72_2,33,0.0,1.0,saline green,0
+201_2,32,0.0,1.0,acetic,0
+23_1,40,0.0,1.0,saline,0
+151_1,48,1.0,3.0,speculum examination,2
+86_2,37,0.0,1.0,saline green,0
+154_4,56,1.0,3.0,acetic,2
+193_2,32,0.0,1.0,saline green,0
+67_1,29,0.0,1.0,saline,0
+213_4,35,1.0,2.0,acetic,2
+174_3,52,1.0,3.0,acetic green,2
+198_2,31,0.0,1.0,saline green,0
+22_3,45,0.0,1.0,acetic,0
+73_2,32,0.0,1.0,acetic,0
+34_3,56,0.0,2.0,acetic,0
+59_1,30,0.0,1.0,saline,0
+202_6,35,0.0,1.0,acetic green,0
+205_4,35,0.0,2.0,,0
+132_3,38,1.0,2.0,acetic,2
+67_4,29,0.0,1.0,iodine,0
+146_1,45,1.0,3.0,acetic,2
+140_4,41,1.0,3.0,iodine,2
+72_5,33,0.0,1.0,iodine,0
+212_4,30,1.0,1.0,acetic green,2
+198_5,31,0.0,1.0,iodine,0
+195_6,37,0.0,1.0,iodine,0
+107_1,55,0.0,3.0,saline green,1
+48_3,30,0.0,1.0,saline green,0
+133_8,46,1.0,2.0,iodine,2
+53_1,32,0.0,1.0,speculum examination,0
+78_1,32,0.0,1.0,speculum examination,0
+174_2,52,1.0,3.0,acetic green,2
+89_4,52,0.0,0.0,acetic,0
+77_2,30,0.0,1.0,acetic,0
+102_4,38,0.0,1.0,iodine,1
+152_4,45,,3.0,acetic,2
+162_4,54,1.0,3.0,acetic,2
+152_6,45,,3.0,iodine,2
+186_1,44,0.0,1.0,saline,0
+61_4,30,0.0,1.0,iodine,0
+20_2,36,0.0,1.0,acetic,0
+211_2,41,1.0,1.0,acetic,2
+161_3,52,1.0,3.0,acetic green,2
+172_3,60,1.0,3.0,acetic,2
+197_3,35,0.0,1.0,acetic,0
+51_5,33,0.0,1.0,iodine,0
+203_2,38,0.0,1.0,acetic,0
+175_4,52,1.0,3.0,iodine,2
+150_2,52,1.0,3.0,saline green,2
+119_6,42,1.0,1.0,iodine,2
+54_1,34,0.0,1.0,saline,0
+67_3,29,0.0,1.0,acetic green,0
+69_1,30,0.0,1.0,acetic,0
+91_2,33,0.0,1.0,acetic,1
+69_3,30,0.0,1.0,iodine,0
+24_2,40,0.0,1.0,acetic higher magnification,0
+70_4,34,0.0,1.0,acetic,0
+199_3,33,0.0,1.0,acetic green,0
+151_9,48,1.0,3.0,acetic,2
+170_4,54,1.0,3.0,acetic green,2
+126_1,40,1.0,2.0,speculum examination,2
+32_5,56,0.0,2.0,iodine,0
+2_3,30,0.0,1.0,acetic,0
+211_3,41,1.0,1.0,acetic green,2
+171_3,56,1.0,3.0,acetic green,2
+24_4,40,0.0,1.0,saline,0
+152_2,45,,3.0,saline green,2
+181_3,43,1.0,2.0,saline green,2
+164_2,60,1.0,3.0,saline,2
+107_2,55,0.0,3.0,acetic,1
+10_2,30,0.0,1.0,saline green,0
+191_5,44,1.0,3.0,iodine,2
+70_5,34,0.0,1.0,iodine,0
+101_3,36,0.0,1.0,acetic,1
+120_5,41,1.0,1.0,acetic green,2
+192_3,36,0.0,1.0,saline green,0
+94_4,36,0.0,1.0,acetic higher magnification,1
+13_2,36,0.0,1.0,acetic higher magnification,0
+136_5,49,1.0,2.0,iodine,2
+55_3,30,0.0,1.0,acetic green,0
+84_1,34,0.0,1.0,speculum examination,0
+183_3,54,1.0,3.0,acetic,2
+6_3,42,0.0,1.0,acetic,0
+25_1,38,0.0,1.0,saline green,0
+137_5,47,1.0,2.0,iodine,2
+81_2,49,0.0,1.0,acetic,0
+134_3,53,1.0,2.0,examination with endocervix,2
+137_3,47,1.0,2.0,acetic green,2
+166_2,50,1.0,3.0,saline green,2
+54_3,34,0.0,1.0,acetic,0
+87_1,41,0.0,1.0,speculum examination,0
+115_1,42,1.0,1.0,saline green,2
+92_1,37,0.0,1.0,saline,1
+76_4,37,0.0,1.0,iodine,1
+126_3,40,1.0,2.0,acetic,2
+190_4,30,1.0,2.0,acetic,0
+8_1,38,0.0,1.0,acetic,0
+131_4,47,1.0,2.0,iodine,2
+155_3,50,1.0,,acetic,2
+103_3,36,0.0,2.0,saline green,2
+216_2,36,0.0,1.0,saline,0
+71_3,30,0.0,1.0,iodine,0
+53_3,32,0.0,1.0,saline green,0
+161_1,52,1.0,3.0,acetic,2
+36_6,55,0.0,3.0,speculum examination,0
+99_4,39,0.0,1.0,acetic,1
+111_3,38,1.0,1.0,acetic,2
+133_2,46,1.0,2.0,acetic,2
+198_4,31,0.0,1.0,acetic green,0
+184_4,57,1.0,,acetic,2
+106_2,31,0.0,2.0,acetic,0
+85_5,45,0.0,1.0,iodine,0
+209_3,34,0.0,1.0,acetic,0
+180_3,50,1.0,3.0,acetic,2
+100_3,32,0.0,1.0,acetic,0
+36_2,55,0.0,3.0,saline green,0
+214_3,41,1.0,,acetic,2
+48_4,30,0.0,1.0,iodine,0
+121_1,42,1.0,1.0,speculum examination,2
+86_4,37,0.0,1.0,acetic,0
+95_3,32,0.0,1.0,acetic,1
+75_1,33,0.0,1.0,acetic,1
+136_4,49,1.0,2.0,acetic,2
+112_5,34,1.0,1.0,iodine,2
+166_5,50,1.0,3.0,iodine,2
+206_3,46,0.0,1.0,acetic,0
+200_2,38,0.0,1.0,saline green,0
+2_4,30,0.0,1.0,iodine,0
+121_3,42,1.0,1.0,acetic green,2
+37_4,60,0.0,2.0,acetic green,0
+127_2,40,1.0,2.0,acetic,2
+171_2,56,1.0,3.0,acetic,2
+204_2,35,0.0,2.0,acetic,0
+6_5,42,0.0,1.0,saline,0
+170_2,54,1.0,3.0,acetic,2
+98_2,32,0.0,1.0,saline green,1
+19_5,42,0.0,1.0,iodine,0
+188_1,38,0.0,1.0,saline,0
+202_1,35,0.0,1.0,saline,0
+181_6,43,1.0,2.0,iodine,2
+192_5,36,0.0,1.0,acetic green,0
+180_1,50,1.0,3.0,saline,2
+68_3,36,0.0,1.0,acetic,0
+173_3,56,1.0,3.0,saline green,2
+200_7,38,0.0,1.0,iodine,0
+122_1,46,1.0,1.0,speculum examination,2
+198_1,31,0.0,1.0,speculum examination,0
+199_2,33,0.0,1.0,acetic,0
+150_1,52,1.0,3.0,saline,2
+139_2,52,1.0,3.0,saline,2
+3_3,37,0.0,1.0,iodine,0
+21_2,42,1.0,1.0,acetic,0
+87_2,41,0.0,1.0,acetic,0
+77_1,30,0.0,1.0,saline,0
+213_1,35,1.0,2.0,speculum examination,2
+73_1,32,0.0,1.0,acetic,0
+9_4,34,0.0,1.0,saline green,0
+162_5,54,1.0,3.0,acetic green,2
+19_6,42,0.0,1.0,speculum examination,0
+199_1,33,0.0,1.0,saline,0
+118_3,32,1.0,1.0,acetic green,2
+154_2,56,1.0,3.0,saline,2
+9_3,34,0.0,1.0,acetic,0
+99_1,39,0.0,1.0,speculum examination,1
+107_3,55,0.0,3.0,iodine,1
+31_1,54,0.0,3.0,acetic,0
+81_4,49,0.0,1.0,iodine,0
+164_4,60,1.0,3.0,acetic green,2
+60_1,32,0.0,1.0,saline,0
+85_2,45,0.0,1.0,saline,0
+176_1,52,1.0,3.0,saline,2
+199_6,33,0.0,1.0,iodine,0
+52_1,34,0.0,1.0,speculum examination,0
+46_1,32,0.0,1.0,iodine,0
+121_5,42,1.0,1.0,acetic higher magnification,2
+139_4,52,1.0,3.0,examination with endocervical speculum,2
+147_5,38,1.0,3.0,iodine,2
+98_3,32,0.0,1.0,acetic,1
+17_2,40,0.0,1.0,saline,0
+142_5,56,1.0,3.0,acetic,2
+102_2,38,0.0,1.0,acetic,1
+140_3,41,1.0,3.0,examination with endocervical speculum,2
+77_5,30,0.0,1.0,iodine,0
+59_4,30,0.0,1.0,iodine,0
+139_1,52,1.0,3.0,speculum examination,2
+191_3,44,1.0,3.0,acetic,2
+190_2,30,1.0,2.0,speculum examination,0
+81_1,49,0.0,1.0,saline,0
+113_2,42,1.0,1.0,acetic,2
+121_4,42,1.0,1.0,acetic,2
+130_4,43,1.0,2.0,acetic,2
+119_4,42,1.0,1.0,acetic,2
+200_1,38,0.0,1.0,saline,0
+197_4,35,0.0,1.0,acetic,0
+48_1,30,0.0,1.0,acetic,0
+79_2,34,0.0,1.0,saline,0
+190_6,30,1.0,2.0,iodine,0
+200_3,38,0.0,1.0,acetic,0
+195_5,37,0.0,1.0,acetic,0
+99_6,39,0.0,1.0,iodine,1
+72_1,33,0.0,1.0,saline,0
+205_3,35,0.0,2.0,acetic,0
+16_4,40,0.0,1.0,iodine,0
+128_4,35,1.0,2.0,acetic higher magnification,2
+119_1,42,1.0,1.0,speculum examination,2
+179_3,54,1.0,3.0,acetic green,2
+127_1,40,1.0,2.0,saline,2
+32_1,56,0.0,2.0,acetic,0
+132_5,38,1.0,2.0,acetic,2
+200_6,38,0.0,1.0,acetic green,0
+199_5,33,0.0,1.0,acetic,0
+18_2,40,0.0,2.0,acetic green,0
+179_1,54,1.0,3.0,saline,2
+37_1,60,0.0,2.0,speculum examination,0
+83_4,38,0.0,1.0,saline green,0
+171_4,56,1.0,3.0,acetic,2
+106_4,31,0.0,2.0,iodine,0
+123_4,43,1.0,1.0,acetic,2
+105_3,34,0.0,2.0,acetic,0
+203_3,38,0.0,1.0,acetic,0
+143_3,48,1.0,3.0,acetic green,2
+167_2,45,1.0,3.0,acetic,2
+93_1,41,0.0,1.0,saline,1
+154_3,56,1.0,3.0,acetic,2
+97_2,41,0.0,1.0,acetic,1
+18_3,40,0.0,2.0,iodine,0
+163_5,38,1.0,3.0,acetic,2
+57_2,25,0.0,1.0,saline green,0
+11_2,35,0.0,1.0,saline green,0
+176_4,52,1.0,3.0,iodine,2
+21_4,42,1.0,1.0,saline,0
+54_4,34,0.0,1.0,iodine,0
+170_5,54,1.0,3.0,iodine,2
+73_3,32,0.0,1.0,iodine,0
+96_1,35,0.0,1.0,acetic,1
+66_2,33,0.0,1.0,acetic,0
+134_2,53,1.0,2.0,acetic,2
+2_2,30,0.0,1.0,acetic,0
+31_2,54,0.0,3.0,iodine,0
+83_3,38,0.0,1.0,saline green,0
+200_8,38,0.0,1.0,iodine,0
+185_5,55,1.0,,iodine,2
+150_6,52,1.0,3.0,acetic,2
+44_5,32,1.0,1.0,speculum examination,0
+46_2,32,0.0,1.0,acetic,0
+163_7,38,1.0,3.0,iodine,2
+45_5,35,0.0,1.0,speculum examination,0
+165_1,54,1.0,3.0,saline,2
+140_1,41,1.0,3.0,acetic,2
+111_1,38,1.0,1.0,saline,2
+163_6,38,1.0,3.0,acetic green,2
+112_2,34,1.0,1.0,saline green,2
+132_4,38,1.0,2.0,acetic,2
+9_5,34,0.0,1.0,iodine,0
+111_2,38,1.0,1.0,acetic,2
+4_2,42,0.0,1.0,iodine,0
+126_5,40,1.0,2.0,iodine,2
+88_4,52,0.0,0.0,acetic,0
+211_1,41,1.0,1.0,saline,2
+88_2,52,0.0,0.0,saline green,0
+131_5,47,1.0,2.0,iodine,2
+184_1,57,1.0,,saline,2
+193_6,32,0.0,1.0,iodine,0
+74_4,40,0.0,1.0,acetic,0
+55_4,30,0.0,1.0,iodine,0
+125_1,41,0.0,2.0,acetic,2
+168_3,52,1.0,3.0,acetic green,2
+44_1,32,1.0,1.0,saline,0
+35_2,48,1.0,2.0,acetic green,0
+93_3,41,0.0,1.0,iodine,1
+192_4,36,0.0,1.0,acetic,0
+68_2,36,0.0,1.0,saline green,0
+45_1,35,0.0,1.0,saline green,0
+164_5,60,1.0,3.0,acetic green,2
+142_1,56,1.0,3.0,speculum examination,2
+168_1,52,1.0,3.0,saline,2
+76_1,37,0.0,1.0,saline,1
+175_1,52,1.0,3.0,saline,2
+3_2,37,0.0,1.0,saline green,0
+101_2,36,0.0,1.0,acetic,1
+102_3,38,0.0,1.0,acetic green,1
+141_1,36,1.0,3.0,acetic,2
+150_7,52,1.0,3.0,examination with endocervical speculum,2
+165_2,54,1.0,3.0,saline green,2
+143_1,48,1.0,3.0,saline,2
+138_4,46,1.0,2.0,iodine,2
+80_3,30,0.0,1.0,iodine,0
+74_6,40,0.0,1.0,iodine,0
+195_4,37,0.0,1.0,acetic,0
+196_1,34,0.0,1.0,acetic,0
+105_2,34,0.0,2.0,saline green,0
+162_3,54,1.0,3.0,acetic,2
+143_5,48,1.0,3.0,iodine,2
+88_3,52,0.0,0.0,acetic,0
+23_2,40,0.0,1.0,acetic,0
+48_2,30,0.0,1.0,acetic,0
+170_3,54,1.0,3.0,,2
+172_1,60,1.0,3.0,saline,2
+41_1,30,1.0,1.0,saline,0
+104_3,34,0.0,2.0,iodine,2
+22_5,45,0.0,1.0,saline,0
+18_4,40,0.0,2.0,saline,0
+100_2,32,0.0,1.0,saline green,0
+194_2,38,0.0,1.0,acetic,0
+177_4,48,1.0,3.0,acetic,2
+57_3,25,0.0,1.0,acetic,0
+183_4,54,1.0,3.0,acetic green,2
+100_5,32,0.0,1.0,iodine,0
+56_1,36,1.0,1.0,saline,0
+52_2,34,0.0,1.0,saline green,0
+56_4,36,1.0,1.0,acetic,0
+7_2,40,0.0,1.0,iodine,0
+144_2,49,1.0,3.0,saline green,2
+171_5,56,1.0,3.0,,2
+204_1,35,0.0,2.0,saline,0
+148_3,52,1.0,3.0,acetic,2
+172_2,60,1.0,3.0,acetic,2
+183_1,54,1.0,3.0,speculum examination,2
+6_2,42,0.0,1.0,acetic,0
+166_1,50,1.0,3.0,saline,2
+164_1,60,1.0,3.0,speculum examination,2
+20_1,36,0.0,1.0,saline green,0
+216_3,36,0.0,1.0,saline green,0
+105_4,34,0.0,2.0,acetic green,0
+114_5,44,1.0,1.0,iodine,2
+114_4,44,1.0,1.0,acetic green,2
+142_2,56,1.0,3.0,saline,2
+175_3,52,1.0,3.0,acetic,2
+51_4,33,0.0,1.0,acetic,0
+98_1,32,0.0,1.0,saline,1
+128_1,35,1.0,2.0,saline,2
+59_2,30,0.0,1.0,acetic,0
+162_1,54,1.0,3.0,saline,2
+131_3,47,1.0,2.0,acetic green,2
+67_2,29,0.0,1.0,acetic,0
+41_6,30,1.0,1.0,iodine,0
+176_2,52,1.0,3.0,acetic,2
+161_2,52,1.0,3.0,acetic,2
+122_3,46,1.0,1.0,acetic,2
+14_3,31,0.0,1.0,acetic higher magnification,0
+51_3,33,0.0,1.0,speculum examination,0
+98_4,32,0.0,1.0,iodine,1
+114_3,44,1.0,1.0,acetic,2
+1_1,34,1.0,1.0,acetic,0
+6_4,42,0.0,1.0,iodine,0
+217_3,40,0.0,1.0,acetic green,0
+58_1,33,0.0,1.0,saline,0
+191_4,44,1.0,3.0,acetic green,2
+214_1,41,1.0,,saline,2
+124_5,34,1.0,1.0,acetic,2
+147_4,38,1.0,3.0,,2
+60_2,32,0.0,1.0,acetic,0
+53_2,32,0.0,1.0,saline higher magnification,0
+21_1,42,1.0,1.0,saline green,0
+151_2,48,1.0,3.0,acetic,2
+180_2,50,1.0,3.0,saline green,2
+34_4,56,0.0,2.0,examination with endocervical speculum,0
+167_1,45,1.0,3.0,speculum examination,2
+89_2,52,0.0,0.0,saline,0
+141_3,36,1.0,3.0,iodine,2
+111_4,38,1.0,1.0,acetic,2
+13_1,36,0.0,1.0,acetic,0
+210_1,40,0.0,1.0,speculum examination,0
+85_1,45,0.0,1.0,speculum examination,0
+183_2,54,1.0,3.0,saline,2
+32_4,56,0.0,2.0,saline green,0
+24_3,40,0.0,1.0,iodine,0
+174_1,52,1.0,3.0,acetic,2
+53_6,32,0.0,1.0,iodine,0
+71_2,30,0.0,1.0,acetic,0
+208_3,30,0.0,1.0,acetic,0
+151_7,48,1.0,3.0,saline green,2
+121_2,42,1.0,1.0,acetic,2
+150_8,52,1.0,3.0,iodine,2
+188_2,38,0.0,1.0,acetic,0
+64_2,42,0.0,1.0,saline green,0
+202_7,35,0.0,1.0,iodine,0
+144_5,49,1.0,3.0,acetic green,2
+168_5,52,1.0,3.0,iodine,2
+91_3,33,0.0,1.0,iodine,1
+78_2,32,0.0,1.0,saline,0
+99_2,39,0.0,1.0,saline,1
+89_3,52,0.0,0.0,saline green,0
+33_1,56,1.0,2.0,saline,0
+205_2,35,0.0,2.0,saline,0
+210_4,40,0.0,1.0,iodine,0
+7_1,40,0.0,1.0,acetic,0
+46_3,32,0.0,1.0,speculum examination,0
+147_2,38,1.0,3.0,acetic,2
+84_4,34,0.0,1.0,iodine,0
+11_4,35,0.0,1.0,speculum examination,0
+192_1,36,0.0,1.0,speculum examination,0
+124_3,34,1.0,1.0,saline green,2
+185_2,55,1.0,,saline green,2
+215_2,38,1.0,,saline green,2
+164_3,60,1.0,3.0,acetic,2
+122_5,46,1.0,1.0,iodine,2
+178_1,43,1.0,3.0,speculum examination,2
+65_2,42,0.0,1.0,saline green,0
+181_2,43,1.0,2.0,saline,2
+95_1,32,0.0,1.0,saline,1
+134_1,53,1.0,2.0,saline green,2
+36_3,55,0.0,3.0,acetic,0
+151_5,48,1.0,3.0,acetic green,2
+92_3,37,0.0,1.0,acetic green,1
+37_3,60,0.0,2.0,acetic,0
+33_3,56,1.0,2.0,acetic,0
+7_4,40,0.0,1.0,speculum examination,0
+177_5,48,1.0,3.0,iodine,2
+120_2,41,1.0,1.0,saline green,2
+43_2,32,0.0,1.0,acetic,0
+42_1,28,0.0,1.0,saline,0
+120_3,41,1.0,1.0,acetic,2
+62_1,38,0.0,1.0,saline,0
+171_1,56,1.0,3.0,saline,2
+169_3,52,1.0,3.0,acetic,2
+125_2,41,0.0,2.0,acetic,2
+190_1,30,1.0,2.0,speculum examination,0
+14_2,31,0.0,1.0,acetic,0
+99_3,39,0.0,1.0,saline green,1
+201_3,32,0.0,1.0,acetic,0
+206_1,46,0.0,1.0,speculum examination,0
+137_1,47,1.0,2.0,saline,2
+80_2,30,0.0,1.0,acetic,0
+202_8,35,0.0,1.0,iodine,0
+112_4,34,1.0,1.0,acetic green,2
+194_3,38,0.0,1.0,acetic green,0
+68_4,36,0.0,1.0,iodine,0
+57_4,25,0.0,1.0,iodine,0
+9_6,34,0.0,1.0,saline,0
+182_3,52,1.0,3.0,acetic,2
+23_4,40,0.0,1.0,speculum examination,0
+208_2,30,0.0,1.0,saline,0
+74_1,40,0.0,1.0,speculum examination,0
+136_1,49,1.0,2.0,speculum examination,2
+133_5,46,1.0,2.0,acetic,2
+106_1,31,0.0,2.0,saline green,0
+178_5,43,1.0,3.0,acetic,2
+31_3,54,0.0,3.0,saline,0
+149_2,35,1.0,3.0,saline green,2
+195_3,37,0.0,1.0,saline green,0
+211_4,41,1.0,1.0,iodine,2
+24_1,40,0.0,1.0,acetic,0
+167_4,45,1.0,3.0,acetic green,2
+94_3,36,0.0,1.0,acetic higher magnification,1
+11_1,35,0.0,1.0,acetic,0
+197_5,35,0.0,1.0,acetic,0
+61_1,30,0.0,1.0,saline,0
+100_1,32,0.0,1.0,saline,0
+132_6,38,1.0,2.0,iodine,2
+52_3,34,0.0,1.0,iodine,0
+82_1,34,0.0,1.0,saline,0
+151_3,48,1.0,3.0,acetic,2
+12_2,31,0.0,1.0,iodine,0
+37_5,60,0.0,2.0,iodine,0
+145_2,60,1.0,3.0,saline,2
+144_3,49,1.0,3.0,saline,2
+101_4,36,0.0,1.0,iodine,1
+170_1,54,1.0,3.0,saline,2
+214_2,41,1.0,,saline green,2
+209_2,34,0.0,1.0,saline green,0
+84_2,34,0.0,1.0,acetic green,0
+113_3,42,1.0,1.0,iodine,2
+168_4,52,1.0,3.0,acetic green,2
+142_3,56,1.0,3.0,saline green,2
+202_4,35,0.0,1.0,acetic,0
+41_2,30,1.0,1.0,acetic,0
+173_1,56,1.0,3.0,saline,2
+77_3,30,0.0,1.0,acetic higher magnification,0
+96_2,35,0.0,1.0,acetic green,1
+5_1,45,1.0,2.0,acetic,0
+25_4,38,0.0,1.0,iodine,0
+54_2,34,0.0,1.0,acetic,0
+184_5,57,1.0,,iodine,2
+1_4,34,1.0,1.0,iodine,0
+17_3,40,0.0,1.0,acetic,0
+177_3,48,1.0,3.0,acetic,2
+34_5,56,0.0,2.0,speculum examination,0
+58_5,33,0.0,1.0,iodine,0
+9_7,34,0.0,1.0,saline,0
+208_1,30,0.0,1.0,speculum examination,0
+21_3,42,1.0,1.0,iodine,0
+155_4,50,1.0,,acetic,2
+129_2,50,1.0,2.0,saline green,2
+94_5,36,0.0,1.0,iodine,1
+217_4,40,0.0,1.0,iodine,0
+163_2,38,1.0,3.0,acetic,2
+122_4,46,1.0,1.0,acetic green,2
+41_3,30,1.0,1.0,speculum examination,0
+200_4,38,0.0,1.0,acetic,0
+140_2,41,1.0,3.0,acetic,2
+6_1,42,0.0,1.0,acetic,0
+5_3,45,1.0,2.0,iodine,0
+212_1,30,1.0,1.0,saline,2
+101_1,36,0.0,1.0,saline,1
+64_3,42,0.0,1.0,acetic,0
+152_5,45,,3.0,acetic,2
+80_1,30,0.0,1.0,speculum examination,0
+95_2,32,0.0,1.0,saline green,1
+177_1,48,1.0,3.0,saline,2
+146_4,45,1.0,3.0,iodine,2
+63_1,36,0.0,1.0,saline,0
+116_3,42,1.0,1.0,acetic,2
+41_5,30,1.0,1.0,acetic higher magnification,0
+184_3,57,1.0,,acetic,2
+133_7,46,1.0,2.0,acetic higher magnification,2
+63_3,36,0.0,1.0,acetic,0
+120_1,41,1.0,1.0,saline,2
+124_6,34,1.0,1.0,acetic higher magnification,2
+130_1,43,1.0,2.0,saline,2
+129_5,50,1.0,2.0,iodine,2
+131_1,47,1.0,2.0,acetic,2
+59_3,30,0.0,1.0,acetic higher magnification,0
+83_1,38,0.0,1.0,speculum examination,0
+153_2,60,1.0,3.0,,2
+136_2,49,1.0,2.0,acetic,2
+76_3,37,0.0,1.0,acetic higher magnification,1
+118_1,32,1.0,1.0,acetic,2
+19_2,42,0.0,1.0,saline green,0
+215_5,38,1.0,,acetic green,2
+207_1,55,0.0,3.0,saline,0
+63_4,36,0.0,1.0,iodine,0
+70_3,34,0.0,1.0,acetic,0
+81_3,49,0.0,1.0,iodine,0
+62_3,38,0.0,1.0,acetic,0
+15_3,43,1.0,1.0,saline,0
+193_5,32,0.0,1.0,acetic,0
+196_2,34,0.0,1.0,acetic green,0
+200_5,38,0.0,1.0,acetic,0
+187_2,36,0.0,1.0,acetic,0
+130_5,43,1.0,2.0,iodine,2
+116_4,42,1.0,1.0,iodine,2
+122_2,46,1.0,1.0,saline,2
+162_6,54,1.0,3.0,iodine,2
+155_2,50,1.0,,saline green,2
+3_4,37,0.0,1.0,speculum examination,0
+150_3,52,1.0,3.0,acetic,2
+145_4,60,1.0,3.0,acetic green,2
+76_2,37,0.0,1.0,acetic,1
+104_2,34,0.0,2.0,acetic,2
+8_3,38,0.0,1.0,acetic higher magnification,0
+131_2,47,1.0,2.0,acetic green,2
+22_2,45,0.0,1.0,acetic,0
+181_5,43,1.0,2.0,acetic green,2
+89_5,52,0.0,0.0,examination with endocervical speculum,0
+82_3,34,0.0,1.0,iodine,0
+133_3,46,1.0,2.0,saline green,2
+117_2,37,1.0,1.0,acetic,2
+138_2,46,1.0,2.0,acetic green,2
+128_5,35,1.0,2.0,iodine,2
+193_1,32,0.0,1.0,speculum examination,0
+203_1,38,0.0,1.0,saline,0
+2_1,30,0.0,1.0,acetic,0
+146_2,45,1.0,3.0,acetic higher magnification,2
+60_3,32,0.0,1.0,acetic,0
+124_2,34,1.0,1.0,saline,2
+143_2,48,1.0,3.0,acetic,2
+104_1,34,0.0,2.0,saline,2
+178_2,43,1.0,3.0,acetic,2
+114_1,44,1.0,1.0,acetic,2
+10_1,30,0.0,1.0,acetic,0
+177_2,48,1.0,3.0,acetic,2
+169_1,52,1.0,3.0,saline,2
+166_4,50,1.0,3.0,acetic green,2
+181_1,43,1.0,2.0,speculum examination,2
+120_4,41,1.0,1.0,acetic green,2
+62_2,38,0.0,1.0,saline green,0
+58_3,33,0.0,1.0,acetic,0
+36_4,55,0.0,3.0,acetic green,0
+185_4,55,1.0,,acetic green,2
+66_4,33,0.0,1.0,iodine,0
+93_2,41,0.0,1.0,acetic,1
+166_3,50,1.0,3.0,acetic,2
+13_3,36,0.0,1.0,iodine,0
+190_3,30,1.0,2.0,saline,0
+181_4,43,1.0,2.0,acetic,2
+213_2,35,1.0,2.0,acetic,2
+32_6,56,0.0,2.0,saline,0
+212_5,30,1.0,1.0,iodine,2
+123_1,43,1.0,1.0,saline,2
+129_1,50,1.0,2.0,speculum examination,2
+36_5,55,0.0,3.0,iodine,0
+14_1,31,0.0,1.0,speculum examination,0
+119_3,42,1.0,1.0,acetic,2
+173_4,56,1.0,3.0,acetic,2
+52_5,34,0.0,1.0,acetic higher magnification,0
+215_1,38,1.0,,saline,2
+112_1,34,1.0,1.0,saline,2
+186_2,44,0.0,1.0,acetic,0
+203_4,38,0.0,1.0,iodine,0
+61_2,30,0.0,1.0,acetic,0
+43_3,32,0.0,1.0,speculum examination,0
+53_4,32,0.0,1.0,acetic,0
+72_3,33,0.0,1.0,acetic,0
+47_1,34,0.0,1.0,acetic,0
+88_5,52,0.0,0.0,acetic,0
+145_1,60,1.0,3.0,speculum examination,2
+199_4,33,0.0,1.0,acetic,0
+11_3,35,0.0,1.0,iodine,0
+32_2,56,0.0,2.0,acetic,0
+1_2,34,1.0,1.0,acetic green,0
+16_1,40,0.0,1.0,saline,0
+133_6,46,1.0,2.0,acetic higher magnification,2
+17_5,40,0.0,1.0,speculum examination,0
+212_2,30,1.0,1.0,saline green,2
+9_1,34,0.0,1.0,acetic,0
+204_3,35,0.0,2.0,iodine,0
+142_4,56,1.0,3.0,acetic,2
+126_2,40,1.0,2.0,saline,2
+129_3,50,1.0,2.0,acetic,2
+163_1,38,1.0,3.0,saline green,2
+102_1,38,0.0,1.0,saline,1
+180_4,50,1.0,3.0,,2
+126_4,40,1.0,2.0,,2
+185_3,55,1.0,,acetic,2
+148_2,52,1.0,3.0,acetic,2
+149_5,35,1.0,3.0,acetic green,2
+153_3,60,1.0,3.0,acetic green,2
+163_4,38,1.0,3.0,acetic green,2
+201_4,32,0.0,1.0,iodine,0
+57_1,25,0.0,1.0,speculum examination,0
+56_3,36,1.0,1.0,saline green,0
+72_4,33,0.0,1.0,acetic,0
+69_2,30,0.0,1.0,saline,0
+217_1,40,0.0,1.0,saline,0
+124_7,34,1.0,1.0,acetic,2
+32_3,56,0.0,2.0,acetic with endocervical speculum,0
